@@ -32,4 +32,6 @@ Today I built a lightweight web dashboard using Streamlit to explore sales data 
 
 💭 Streamlit is honestly one of the quickest ways to turn a CSV into something impressive — and interactive — in under an hour.
 
+#DataAnalytics #Python #Streamlit #DataVisualization #Superstore #Dashboard #OpenToWork #OneProjectADay #Day18
+
 ![day18](https://github.com/user-attachments/assets/0e7d4cce-20d3-4777-8f51-ee5a9a78ea3d)
