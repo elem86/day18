@@ -4,7 +4,7 @@
 
 🧩 Interactive Superstore Dashboard with Streamlit
 
-Today I built a lightweight web dashboard using Streamlit to explore sales data from the Superstore dataset in a more visual and interactive way — all in Python!
+Today I built a lightweight web dashboard using Streamlit to explore sales data from the Superstore dataset more visually and interactively — all in Python!
 
 
 ✅ What I accomplished:
@@ -30,7 +30,7 @@ Today I built a lightweight web dashboard using Streamlit to explore sales data 
 
 🎥 Screenshot below!
 
-💭 Streamlit is honestly one of the quickest ways to turn a CSV into something impressive — and interactive — in under an hour.
+💭 Streamlit is one of the quickest ways to turn a CSV into something impressive — and interactive — in under an hour.
 
 #DataAnalytics #Python #Streamlit #DataVisualization #Superstore #Dashboard #OpenToWork #OneProjectADay #Day18
 
